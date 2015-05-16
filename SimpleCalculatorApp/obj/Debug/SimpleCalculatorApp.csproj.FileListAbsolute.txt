@@ -1,0 +1,12 @@
+E:\zahid\SimpleCalculatorApp\SimpleCalculatorApp\bin\Debug\SimpleCalculatorApp.exe.config
+E:\zahid\SimpleCalculatorApp\SimpleCalculatorApp\bin\Debug\SimpleCalculatorApp.exe
+E:\zahid\SimpleCalculatorApp\SimpleCalculatorApp\bin\Debug\SimpleCalculatorApp.pdb
+E:\zahid\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.csprojResolveAssemblyReference.cache
+E:\zahid\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.simpleCaculatorUI.resources
+E:\zahid\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.Properties.Resources.resources
+E:\zahid\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.csproj.GenerateResource.Cache
+E:\zahid\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.exe
+E:\zahid\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.pdb
+E:\zahid\exp\SimpleCalculatorApp\SimpleCalculatorApp\bin\Debug\SimpleCalculatorApp.exe.config
+E:\zahid\exp\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.exe
+E:\zahid\exp\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.pdb
